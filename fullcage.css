@@ -1,0 +1,11 @@
+a:hover:after {
+  background: url('http://s.cdpn.io/31787/nick-cage.jpeg');
+  background-size: cover;
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  text-align: center;
+}
